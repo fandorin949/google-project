@@ -1,0 +1,1 @@
+This is an emulation of the goole homepage as part of the Odin Project Excersice.
